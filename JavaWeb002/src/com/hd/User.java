@@ -7,6 +7,7 @@ package com.hd;
 public class User {
     private String username;
     private String email;
-    private  int age;
+    private int age;
+    private String address;
 
 }
